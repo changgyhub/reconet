@@ -1,11 +1,13 @@
 # ReCoNet
 Testing Code for ReCoNet: Real-time Coherent Video Style Transfer Network.
 
+This is my final year project at the University of Hong Kong. The project page is available at [FYP17004](http://i.cs.hku.hk/fyp/2017/fyp17004/). Other authors are Derun Gu, Fangjun Zhang, and Yizhou Yu.
+
 ## Code
-Training code and model binary files are currently unavaiable. Please contact me if you want a copy.
+Training code and model binary files are currently unavailable. Please contact me if you want a copy.
 
 ## Paper
-Paper avaiable at [arXiv](https://arxiv.org/abs/1807.01197).
+Paper available at [arXiv](https://arxiv.org/abs/1807.01197).
 
 ## Video
-Demo video avaiable at [YouTube](https://youtu.be/vhBRanZmdH0).
+Demo video available at [YouTube](https://youtu.be/vhBRanZmdH0).
